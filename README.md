@@ -27,11 +27,3 @@ CREATE TABLE `studentdetailstable` (
   PRIMARY KEY (`student_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 ```
-
-### PHP Files in this project:
-
-1. DBConfig.php
-2. InsertStudentData.php
-3. ShowAllStudentsList.php
-4. UpdateStudentRecord.php
-5. DeleteStudentRecord.php
